@@ -1,0 +1,53 @@
+<Solution>
+  <PropertyGroup Name="luaWrap" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="head">
+          <Folder Name="actIconCircle">
+            <Image Name="12E51FF8.png" />
+            <Image Name="1D4D1997.png" />
+            <Image Name="2C6C0DD.png" />
+            <Image Name="2F64DCDD.png" />
+            <Image Name="39CB6B9D.png" />
+            <Image Name="3B01C330.png" />
+            <Image Name="40B39B38.png" />
+            <Image Name="4EF3491C.png" />
+            <Image Name="650A73A6.png" />
+            <Image Name="66254EF3.png" />
+            <Image Name="86F80FF4.png" />
+            <Image Name="88758F0F.png" />
+            <Image Name="9BC612C8.png" />
+            <Image Name="B1B43037.png" />
+            <Image Name="F25B875F.png" />
+          </Folder>
+          <Folder Name="zhanduolibeijing">
+            <Image Name="stand_4_00000.png" />
+            <Image Name="stand_4_00001.png" />
+            <Image Name="stand_4_00002.png" />
+            <Image Name="stand_4_00003.png" />
+            <Image Name="stand_4_00004.png" />
+            <Image Name="stand_4_00005.png" />
+            <Image Name="stand_4_00006.png" />
+            <Image Name="stand_4_00007.png" />
+            <Image Name="stand_4_00008.png" />
+            <Image Name="stand_4_00009.png" />
+          </Folder>
+          <TTF Name="aa.TTF" />
+          <Image Name="btn_notice.png" />
+          <Project Name="Head_Layer.csd" Type="Layer" />
+          <Image Name="headFrame.png" />
+          <Image Name="zjmzhandouli.png" />
+        </Folder>
+        <Folder Name="select">
+          <Image Name="head_1_0.png" />
+          <Image Name="head_1_1.png" />
+          <Image Name="head_2_0.png" />
+          <Image Name="head_2_1.png" />
+          <Image Name="head_3_0.png" />
+          <Image Name="head_3_1.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,43 @@
+<Solution>
+  <PropertyGroup Name="luaWrap" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="common">
+          <Folder Name="btn_icon">
+            <Image Name="btn_music_off.png" />
+            <Image Name="btn_music_on.png" />
+            <Image Name="btn_notice.png" />
+            <Image Name="btn_return.png" />
+          </Folder>
+          <Folder Name="font">
+            <TTF Name="font.ttf" />
+          </Folder>
+          <Folder Name="pop_bg">
+            <Image Name="bg.png" />
+            <Image Name="notice_text.png" />
+            <Image Name="over_text.png" />
+          </Folder>
+          <Folder Name="sound">
+            <Audio Name="button.mp3" />
+            <Audio Name="game.mp3" />
+          </Folder>
+          <Folder Name="txt">
+            <File Name="name.txt" />
+          </Folder>
+          <File Name="A.json" />
+          <Image Name="img_popui.png" />
+        </Folder>
+        <Folder Name="over">
+          <Image Name="btnRevive.png" />
+          <Image Name="btnExit.png" />
+          <Image Name="btnRestart.png" />
+          <Project Name="Over_Layer.csd" Type="Layer" />
+          <Image Name="txt_1.png" />
+          <Image Name="txt_2.png" />
+          <Image Name="txt_3.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

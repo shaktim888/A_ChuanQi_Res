@@ -1,0 +1,36 @@
+<Solution>
+  <PropertyGroup Name="luaWrap" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="head">
+          <Folder Name="zhanduolibeijing">
+            <Image Name="stand_4_00000.png" />
+            <Image Name="stand_4_00001.png" />
+            <Image Name="stand_4_00002.png" />
+            <Image Name="stand_4_00003.png" />
+            <Image Name="stand_4_00004.png" />
+            <Image Name="stand_4_00005.png" />
+            <Image Name="stand_4_00006.png" />
+            <Image Name="stand_4_00007.png" />
+            <Image Name="stand_4_00008.png" />
+            <Image Name="stand_4_00009.png" />
+          </Folder>
+          <Fnt Name="aa.fnt" />
+          <TTF Name="aa.TTF" />
+          <Project Name="Head_Layer.csd" Type="Layer" />
+          <Image Name="headFrame.png" />
+          <Image Name="zjmzhandouli.png" />
+        </Folder>
+        <Folder Name="select">
+          <Image Name="head_1_0.png" />
+          <Image Name="head_1_1.png" />
+          <Image Name="head_2_0.png" />
+          <Image Name="head_2_1.png" />
+          <Image Name="head_3_0.png" />
+          <Image Name="head_3_1.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

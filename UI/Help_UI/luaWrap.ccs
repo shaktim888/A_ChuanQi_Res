@@ -1,0 +1,22 @@
+<Solution>
+  <PropertyGroup Name="luaWrap" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="common">
+          <Folder Name="font">
+            <TTF Name="font.ttf" />
+          </Folder>
+          <Folder Name="pop_bg">
+            <Image Name="bg.png" />
+            <Image Name="daily.png" />
+            <Image Name="notice_text.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="help">
+          <Project Name="Help_Layer.csd" Type="Layer" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
