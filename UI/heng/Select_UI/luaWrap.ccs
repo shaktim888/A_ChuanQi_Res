@@ -1,0 +1,46 @@
+<Solution>
+  <PropertyGroup Name="luaWrap" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="common">
+          <Folder Name="font">
+            <TTF Name="font.ttf" />
+          </Folder>
+        </Folder>
+        <Folder Name="select">
+          <Folder Name="btn">
+            <Image Name="daoshitubiao1.png" />
+            <Image Name="daoshitubiao2.png" />
+            <Image Name="fashitubiao1.png" />
+            <Image Name="fashitubiao2.png" />
+            <Image Name="zhanshitubiao1.png" />
+            <Image Name="zhanshitubiao2.png" />
+          </Folder>
+          <Folder Name="job">
+            <Image Name="huoban_1_0.png" />
+            <Image Name="huoban_1_1.png" />
+            <Image Name="huoban_2_0.png" />
+            <Image Name="huoban_2_1.png" />
+            <Image Name="huoban_3_0.png" />
+            <Image Name="huoban_3_1.png" />
+          </Folder>
+          <Folder Name="res">
+            <Image Name="bg.png" />
+            <Image Name="btn_start.png" />
+            <Image Name="btnMan.png" />
+            <Image Name="btnSexIcon_1.png" />
+            <Image Name="btnSexIcon2.png" />
+            <Image Name="btnWoman.png" />
+            <Image Name="chuangjianjuese.png" />
+            <Image Name="shurumingcheng.png" />
+            <Image Name="tuozi.png" />
+          </Folder>
+          <Project Name="Select_Layer_0.csd" Type="Layer" />
+          <Project Name="Select_Layer_1.csd" Type="Layer" />
+          <Project Name="Select_Layer_2.csd" Type="Layer" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

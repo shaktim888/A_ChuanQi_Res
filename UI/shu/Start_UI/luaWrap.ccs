@@ -1,0 +1,18 @@
+<Solution>
+  <PropertyGroup Name="luaWrap" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="start">
+          <Folder Name="res">
+            <Image Name="bg.png" />
+            <Image Name="btn_start_1.png" />
+            <Image Name="role.png" />
+            <Image Name="wenz1.png" />
+          </Folder>
+          <Project Name="Start_Layer_0.csd" Type="Layer" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
